@@ -13,6 +13,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+//三个lombok注解 自动生成set get方法
 public class PageResult implements Serializable {
 
     private long total; //总记录数

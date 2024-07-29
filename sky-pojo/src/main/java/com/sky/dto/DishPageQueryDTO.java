@@ -14,7 +14,7 @@ public class DishPageQueryDTO implements Serializable {
     private String name;
 
     //分类id
-    private Integer categoryId;
+    private Integer categoryID;
 
     //状态 0表示禁用 1表示启用
     private Integer status;
