@@ -1,6 +1,7 @@
 package com.sky.controller.admin;
 
 import com.sky.dto.*;
+import com.sky.entity.Dish;
 import com.sky.result.*;
 import com.sky.service.DishService;
 import com.sky.vo.*;
