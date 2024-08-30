@@ -8,8 +8,8 @@ sky:
     password: ""
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5t7VsyHaKLtkC7ZL89QD
-    access-key-secret: upMASXyNqZAQ4acCXrn6J6wnGMLrwd
+    access-key-id: ********
+    access-key-secret: **********
     bucket-name: webdev-sky
   redis:
     host: localhost
